@@ -1,0 +1,14 @@
+C:\Users\Ali\source\repos\Task1(LOOP)\Task1(LOOP)\bin\Debug\netcoreapp3.1\Task1(LOOP).exe
+C:\Users\Ali\source\repos\Task1(LOOP)\Task1(LOOP)\bin\Debug\netcoreapp3.1\Task1(LOOP).deps.json
+C:\Users\Ali\source\repos\Task1(LOOP)\Task1(LOOP)\bin\Debug\netcoreapp3.1\Task1(LOOP).runtimeconfig.json
+C:\Users\Ali\source\repos\Task1(LOOP)\Task1(LOOP)\bin\Debug\netcoreapp3.1\Task1(LOOP).runtimeconfig.dev.json
+C:\Users\Ali\source\repos\Task1(LOOP)\Task1(LOOP)\bin\Debug\netcoreapp3.1\Task1(LOOP).dll
+C:\Users\Ali\source\repos\Task1(LOOP)\Task1(LOOP)\bin\Debug\netcoreapp3.1\Task1(LOOP).pdb
+C:\Users\Ali\source\repos\Task1(LOOP)\Task1(LOOP)\obj\Debug\netcoreapp3.1\Task1(LOOP).csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\Task1(LOOP)\Task1(LOOP)\obj\Debug\netcoreapp3.1\Task1(LOOP).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\Task1(LOOP)\Task1(LOOP)\obj\Debug\netcoreapp3.1\Task1(LOOP).AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\Task1(LOOP)\Task1(LOOP)\obj\Debug\netcoreapp3.1\Task1(LOOP).AssemblyInfo.cs
+C:\Users\Ali\source\repos\Task1(LOOP)\Task1(LOOP)\obj\Debug\netcoreapp3.1\Task1(LOOP).csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Task1(LOOP)\Task1(LOOP)\obj\Debug\netcoreapp3.1\Task1(LOOP).dll
+C:\Users\Ali\source\repos\Task1(LOOP)\Task1(LOOP)\obj\Debug\netcoreapp3.1\Task1(LOOP).pdb
+C:\Users\Ali\source\repos\Task1(LOOP)\Task1(LOOP)\obj\Debug\netcoreapp3.1\Task1(LOOP).genruntimeconfig.cache
